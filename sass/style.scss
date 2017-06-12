@@ -1636,6 +1636,10 @@ canvas {
 
 /* Small Devices, Tablets */
 @include tablet {
+    .email-address {
+        display: none;
+    }
+    
     .light-btn {
         max-width: 70%;
         min-width: 60%;
@@ -1679,6 +1683,7 @@ canvas {
 
 /* Extra Small Devices, Phones */
 @include phone {
+
     #home {
         padding: 5rem 0 0;
 

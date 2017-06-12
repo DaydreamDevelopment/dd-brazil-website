@@ -196,7 +196,7 @@ $(document).ready(function(){
     /* ------------------------------------- */
 
     $("#notifyMe").notifyMe();
-
+/*
     (function() {
 
         var dlgtrigger = document.querySelector( '[data-dialog]' ),
@@ -206,7 +206,7 @@ $(document).ready(function(){
         dlgtrigger.addEventListener( 'click', dlg.toggle.bind(dlg) );
 
     })();
-
+*/
     /* ------------------------------------- */
     /* 6. PhotoSwipe Gallery Init .......... */
     /* ------------------------------------- */

@@ -498,10 +498,10 @@
 	"\/js\/main.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/build\/js\/min\/main-min.js",
-		"oF": 1,
-		"sC": 0,
+		"oF": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/js\/modernizr.custom.js": {
